@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirnegah
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning How To Be a DevOps Engineer
-- 💞️ I’m looking for a junior DevOps Position
+- 💞️ I’m working as a DevOps Engineer
 - 📫 How to reach me arnegahban93@gmail.com
 
 <!---
